@@ -1,0 +1,14 @@
+url = http://alex.academy/exe/signup/www/index.php
+
+fname_value = Grygoriy
+lname_value = Zhurylo
+email_value = grygoriy23@gmail.com
+phone_value = 630-788-7585
+
+fname_id = id_fname
+lname_id = id_lname
+email_id = id_email
+phone_id = id_phone
+submit_id = id_submit_button
+form = signup .
+For browsers: Firefox, Chrome, Safari and Edge, ad
